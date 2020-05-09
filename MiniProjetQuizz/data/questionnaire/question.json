@@ -1,0 +1,89 @@
+[
+    {
+        "enonce": "Origines du COVID-19?",
+        "type": "radio",
+        "points": "5",
+        "reponses":
+         [
+            "Italie",
+            "Chine",
+            "Usa"
+            
+         ],
+        "reponseVraie":
+        [
+            "Chine"
+        ]
+    },
+
+    {
+        "enonce": "Les langages du web?",
+        "points": "5",
+        "type": "qcm",
+        "reponses": [
+            "Php",
+            "Java",
+            "Html"
+        ],
+        "reponsesVraies":
+        [
+            "Php",
+            "Html"
+        ]
+      
+        
+    },
+
+    {
+        "enonce": "Les Precurseurs de la revolution Digital?",
+        "points": "4",
+        "type": "qcm",
+        "reponses":
+        [
+            "GAFAM",
+            "ALIBABA",
+            "FBI-CIA",
+            "USA"
+        ],
+        "reponsesVraies":
+        [
+            "GAFAM"
+        ]
+      
+
+        
+    },
+
+    {
+        "enonce": "Quel terme definit lagage qui s'adapte sur Androide et sur Ios?",
+        "points": "5",
+        "type": "qcm",
+        "reponses":
+        [
+            "g"
+        
+        ]
+      
+    },
+    
+    {
+        "enonce": "Quelle est la premiere Ecole de codage gratuit au Senegal?",
+        "points": "5",
+        "type": "qcm",
+        "reponses":
+        [
+            "SIMPLON",
+            "SONATEL"
+        
+        ],
+        "reponsesVraies":
+        [
+            "SIMPLON"
+        ]
+      
+     
+    }
+  
+    
+    
+]

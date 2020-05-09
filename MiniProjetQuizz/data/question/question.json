@@ -1,0 +1,33 @@
+[
+    {
+        "enonce": "Origines du COVID-19?",
+        "type": "radio",
+        "points": "3",
+        "reponses": [
+            "Japon",
+            "Italie",
+            "Chine",
+            "Usa"
+        ],
+        "reponseVraie": "Chine"
+    },
+    {
+        "enonce": "Les langages du web?",
+        "points": "5",
+        "type": "QCM",
+        "reponses":
+         [
+            "Php",
+            "Java",
+            "Html",
+            "CSS"
+        ],
+        "reponseVraie": [
+            "Php",
+            "Html"
+        ]
+    }
+   
+    
+    
+]

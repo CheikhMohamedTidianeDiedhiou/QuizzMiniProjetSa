@@ -1,0 +1,45 @@
+[
+    {
+        "prenom": "admin",
+        "nom": "admin",
+        "login": "admin",
+        "password": "admin",
+        "profil": "admin",
+        "photo": ".\/data\/photos\/admin.jpg"
+    },
+    {
+        "prenom": "joueur",
+        "nom": "joueur",
+        "login": "joueur",
+        "password": "joueur",
+        "profil": "joueur",
+        "photo": ".\/data\/photos\/joueur.jpeg",
+        "score": 3
+    },
+    {
+        "prenom": "TIJANA",
+        "nom": "TIJANA",
+        "login": "TIJANA",
+        "password": "TIJANA",
+        "profil": "joueur",
+        "photo": ".\/data\/photos\/TIJANA.jpg",
+        "score": 60
+    },
+    {
+        "prenom": "cheikh",
+        "nom": "cheikh",
+        "login": "cheikh",
+        "password": "cheikh",
+        "profil": "joueur",
+        "photo": ".\/data\/photos\/cheikh.jpeg",
+        "score": 0
+    },
+    {
+        "prenom": "bouba",
+        "nom": "bouba",
+        "login": "bouba",
+        "password": "bouba",
+        "profil": "admin",
+        "photo": ".\/data\/photos\/bouba.jpg"
+    }
+]
